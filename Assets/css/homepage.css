@@ -1,6 +1,20 @@
-body { font-family: 'Nunito Sans', sans-serif;
+body {
+    font-family: 'Montserrat', sans-serif;text-align: center;color:#4a4a4a;
+}
+h1 {
+    font-weight: 600
+}
+.header-section {
+    text-align: center; padding:30px;background:#4a4a4a;color:#fff;font-weight:200;
+}
+.profile-image {border-radius: 50%;}
+
+.top-buffer {margin-top:50px; }
+
+.btn-default {color:#fff;background:#ed556f;border:none;
 }
 
-h1 {font-weight:600}
+.btn-default:hover{color:#fff;background:#ed556f;border:none;
+}
 
-.header-section {text-align: center}
+.sign-up {padding:30px;background:#f2f2f2}
